@@ -1,6 +1,7 @@
 # WorldPan
 
 ![Insert your Picture](https://github.com/itisclairee/WorldPan/assets/148436340/2d80fd3f-636f-4508-9b55-8771bd357d4d)
+
 Welcome to WorldPan!
 
 ##  :link: **Introduction**
