@@ -16,6 +16,6 @@ WorldPan is an IOS app that provides a way for beginners who want to learn how t
 - Have the right address in order to know where to buy a specific ingredient
 - Videos of the recipes
 
-- ##  :link: **Feedback**
+##  :link: **Feedback**
 
-If you have any suggestions, questions, or encounter any issues while using Ciao Chef!, please don't hesitate to reach out. Your input helps us improve the app and provide you with an even better culinary experience.
+If you have any suggestions, questions, or encounter any issues, please don't hesitate to reach out. Your input helps me improve the app 😄 
